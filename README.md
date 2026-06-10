@@ -20,11 +20,11 @@ This project analyzes COVID-19 patient data using Python, Pandas, and Matplotlib
 COVID-19 patient dataset (patient.csv)
 
 ## Project Structure
-COVID_Project
-├── dataset
-├── code
-├── charts
-├── reports
+COVID_Project: 
+1. dataset
+2. code
+3. charts
+4. reports
 
 ## Author
 Vidhya Pillai
