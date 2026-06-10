@@ -1,0 +1,25 @@
+COVID-19 DATA ANALYSIS REPORT
+========================================
+
+Dataset Shape: (4212, 14)
+
+Patient States:
+state
+isolated    4171
+released      28
+deceased      13
+Name: count, dtype: int64
+
+Top Regions:
+region
+Gyeongsangbuk-do       119
+capital area           109
+Daegu                   34
+Daejeon                 10
+Gwangju                 10
+Gangwon-do               5
+filtered at airport      4
+Jeollabuk-do             4
+Jeju-do                  2
+Busan                    2
+Name: count, dtype: int64

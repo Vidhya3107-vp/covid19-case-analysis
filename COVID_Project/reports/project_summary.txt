@@ -1,0 +1,42 @@
+COVID-19 Early Case Trend Analysis & Recovery Insights
+
+Project Summary
+
+Dataset Information
+- Total Records: 4212
+- Total Columns: 14
+
+Patient Outcome Analysis
+- Isolated Cases: 4171
+- Released Cases: 28
+- Deceased Cases: 13
+
+Gender Distribution
+- Female Patients: 163
+- Male Patients: 155
+
+Regional Analysis
+- Most affected region: Gyeongsangbuk-do
+- Second most affected region: Capital Area
+- Third most affected region: Daegu
+
+Infection Source Analysis
+- Contact with patient: 66 cases
+- Visit to Daegu: 40 cases
+- Visit to Wuhan: 8 cases
+
+Recovery Analysis
+- Average recovery time: 15 days
+- Minimum recovery time: 7 days
+- Maximum recovery time: 24 days
+
+Contact Analysis
+- Average contact number: 96.84
+
+Correlation Analysis
+- Birth Year vs Infection Order: -0.517
+- Birth Year vs Contact Number: -0.174
+- Infection Order vs Contact Number: -0.096
+
+Conclusion
+The analysis shows that contact with infected patients was the primary source of infection. Gyeongsangbuk-do and Capital Area were the most affected regions. Recovered patients took approximately 15 days on average to recover. These insights can help health authorities understand infection patterns and recovery trends.
