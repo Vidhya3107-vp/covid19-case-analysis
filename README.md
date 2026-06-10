@@ -26,5 +26,14 @@ COVID_Project
 3. charts
 4. reports
 
+ ## Output
+
+The project generates:
+
+- Data analysis results
+- Statistical summaries
+- Visual charts in PNG format
+- Project report in TXT format
+
 ## Author
 Vidhya Pillai
